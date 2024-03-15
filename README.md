@@ -7,7 +7,7 @@
 ![pagina](https://github.com/auxili25/Landing_Page/assets/158069399/9169a753-f4bc-43c7-8755-cfcf8cbd6f77)
 
 
-Additional description about the project and its features.
+
 
 ## Built With
 
