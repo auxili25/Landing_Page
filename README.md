@@ -2,11 +2,12 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> This project was done with the purpose of learning how to use GitHub and at the same time everything related to landing page, to improve presentation skills.
 
-![screenshot](./app_screenshot.png)
+![pagina](https://github.com/auxili25/Landing_Page/assets/158069399/9169a753-f4bc-43c7-8755-cfcf8cbd6f77)
 
-Additional description about the project and its features.
+
+
 
 ## Built With
 
@@ -16,16 +17,16 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://127.0.0.1:5501/index.html)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To start, we enter our browser and place github to enter my repositories, copy the code, enter the local disk c and then look for the landing page folder, enter it and then open git bash and make a git clone
 
 
 To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
@@ -43,23 +44,16 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤  **Maria Auxiliadora Maldonado Gelvez**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@auxili25](https://github.com/auxili25)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [Issues](https://github.com/auxili25/Landing_Page/issues)
 
 ## Show your support
 
@@ -67,9 +61,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-I thank Professor Aristides for his teaching and his time
 
 ## 📝 License
 
