@@ -34,7 +34,6 @@ body {
     display: block;
     height: 80px;
     width: 80px;
-    margin: 0 auto;
     border-radius: 100px;
  
 }
@@ -133,6 +132,7 @@ h2 {
     margin: 20px;
     border-radius: 10px;
     border: solid #3882F6;
+    object-fit: cover;
 }
 
 .cheese-subtext {
