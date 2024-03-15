@@ -4,7 +4,8 @@
 
 > This project was done with the purpose of learning how to use GitHub and at the same time everything related to landing page, to improve presentation skills.
 
-![queso](queso-1.jpg)
+![queso2](https://github.com/auxili25/Landing_Page/assets/158069399/54de5ae0-8cd3-45f4-aeac-9f3b3f918a13)
+
 
 
 
