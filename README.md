@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](http://127.0.0.1:5501/index.html)
+[Live Demo Link](https://auxili25.github.io/Landing_Page/)
 
 
 ## Getting Started
