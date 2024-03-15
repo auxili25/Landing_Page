@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://auxili25.github.io/Landing_Page/)
+[Live Demo Link](http://127.0.0.1:5501/index.html)
 
 
 ## Getting Started
