@@ -26,21 +26,23 @@ body {
     width: 100%;
     height: 100%;
     margin-left: 50px;
+    
 
 }
 
 #header-logo {
-    display: flex;
-    height: 120px;
-    width: 120px;
-    
-    
+    display: block;
+    height: 80px;
+    width: 80px;
+    margin: 0 auto;
+    border-radius: 100px;
+ 
 }
 
 
 #nav-bar {
     display: flex;
-    margin-right: 175px;
+    margin-right: 55px;
     padding: 0;
     gap: 30px;
 }
@@ -80,8 +82,8 @@ a {
 }
 
 .hero-image{
-    width: 550px;
-    height: 400px;
+    width: 400px;
+    height: 300px;
 }
 
 h1 {
